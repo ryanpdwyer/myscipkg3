@@ -1,0 +1,3 @@
+include versioneer.py
+include myscipkg3/_version.py
+include myscipkg3/_version.py
